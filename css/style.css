@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: white;
 }
 
 p {
@@ -54,4 +54,15 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+#linkedin-image {
+  height: 50px;
+  weight: 50px;
+  margin: 0px 25px 0px 0px;
+}
+#github-image {
+  height: 30px;
+  weight: 30px;
+  margin: 10px 25px 0px 0px;
 }
