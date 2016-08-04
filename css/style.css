@@ -5,10 +5,15 @@
  *
  * Made By MaterializeCSS.com
  */
+ footer a,
+ footer .dark-text {
+   color: #263238;
+ }
+
 
 nav ul a,
 nav .brand-logo {
-  color: white;
+  color: #263238;
 }
 
 p {
@@ -56,6 +61,21 @@ footer.page-footer {
   margin: 0;
 }
 
+.background-image {
+  width: 100%;
+  height: auto;
+}
+.dark-text {
+  color: #263238;
+}
+/*.kate-text {
+  margin-top: 150px;
+}*/
+#headshot {
+  height: 150px;
+  weight: 150px;
+  margin: 20px auto auto 0px;
+}
 #linkedin-image {
   height: 50px;
   weight: 50px;
